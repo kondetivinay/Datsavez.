@@ -1,0 +1,86 @@
+.div1 {
+  padding-top: 10px;
+  width: 100%;
+  height: 108vh;
+  margin-left: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: #D1D1D1;
+}
+
+.div1 .contents {
+  width: 717px;
+  height: 740px;
+  background: rgba(247, 248, 250, 0.5);
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+          transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.div1 .contents h1 {
+  width: 381px;
+  height: 124px;
+  margin-top: 100px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  /* primary text */
+  color: #1E272E;
+}
+
+.div1 .contents p {
+  width: 431px;
+  height: 90px;
+  margin-left: 90px;
+  margin-bottom: 50px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 160%;
+  /* or 45px */
+  letter-spacing: -0.02em;
+  /* secondary text */
+  color: #566474;
+}
+
+.div1 .contents img {
+  width: 556.08px;
+  height: 290.12px;
+  border: none;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+::-webkit-input-placeholder {
+  padding-left: 10px;
+}
+
+:-ms-input-placeholder {
+  padding-left: 10px;
+}
+
+::-ms-input-placeholder {
+  padding-left: 10px;
+}
+
+::placeholder {
+  padding-left: 10px;
+}
+
+.div2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-left: 0;
+}
+/*# sourceMappingURL=Homepage.module.css.map */

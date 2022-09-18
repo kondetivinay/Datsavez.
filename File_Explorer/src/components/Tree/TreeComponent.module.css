@@ -1,0 +1,14 @@
+.class {
+  width: 100%;
+  margin-top: 3rem !important;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.enclosure {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-right: 10px;
+}
+/*# sourceMappingURL=TreeComponent.module.css.map */

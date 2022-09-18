@@ -1,0 +1,9 @@
+@import "./variables.scss";
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: $primary-font;
+    -webkit-tap-highlight-color: transparent;
+}

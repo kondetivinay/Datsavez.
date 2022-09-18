@@ -1,0 +1,58 @@
+.div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.div img {
+  margin-left: 40px;
+  width: 50px;
+  height: 50px;
+  border: 5px solid #2b3c92;
+  border-top: none;
+  border-left: none;
+  border-radius: 18px;
+}
+
+.div .name {
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  font-weight: 200px;
+  -webkit-text-fill-color: white;
+  /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #2b3c92;
+}
+
+.div_dark {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.div_dark img {
+  margin-left: 40px;
+  width: 50px;
+  height: 50px;
+  border: 5px solid #2b3c92;
+  border-top: none;
+  border-left: none;
+  border-radius: 18px;
+}
+
+.div_dark .name {
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  font-weight: 200px;
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color: #fdfdff;
+}
+/*# sourceMappingURL=DastavezLogo.module.css.map */
