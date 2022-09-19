@@ -1,1 +1,1 @@
-# File-exploerer
+# File-manager
